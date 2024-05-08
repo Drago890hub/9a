@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\bin\Debug\Banka.08.04.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\bin\Debug\Banka.08.04.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\bin\Debug\Banka.08.04.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\obj\Debug\Banka.08.04.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\obj\Debug\Banka.08.04.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\obj\Debug\Banka.08.04.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\Banka.08.04\Banka.08.04\obj\Debug\Banka.08.04.pdb

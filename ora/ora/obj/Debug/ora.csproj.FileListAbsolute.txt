@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\bin\Debug\ora.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\bin\Debug\ora.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\bin\Debug\ora.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\obj\Debug\ora.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\obj\Debug\ora.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\obj\Debug\ora.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\ora\ora\obj\Debug\ora.pdb

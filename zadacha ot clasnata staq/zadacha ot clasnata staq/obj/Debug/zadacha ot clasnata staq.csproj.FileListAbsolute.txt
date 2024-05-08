@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\bin\Debug\zadacha ot clasnata staq.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\bin\Debug\zadacha ot clasnata staq.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\bin\Debug\zadacha ot clasnata staq.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\obj\Debug\zadacha ot clasnata staq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\obj\Debug\zadacha ot clasnata staq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\obj\Debug\zadacha ot clasnata staq.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\zadacha ot clasnata staq\zadacha ot clasnata staq\obj\Debug\zadacha ot clasnata staq.pdb
